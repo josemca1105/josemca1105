@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josemca1105
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Django and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
