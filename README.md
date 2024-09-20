@@ -1,12 +1,25 @@
-# 👋 Hi, I'm Jose Calderon
-### I'm a Venezuelan developer
+<div align="center">
+  
+  # 👋 Hi, I'm Jose Calderon
+  ### I'm a Venezuelan web developer
 
-I’m interested in Web Development
-
-I’m currently learning Angular and SpringBoot
-
+</div>
+<ul>
+  <li>
+    I’m currently learning Angular and SpringBoot
+  </li>
+  <li>
+    You can reach me here: 
+    <strong>
+      <a href="mailto:jm.calderon1105@gmail.com">
+        jm.calderon1105@gmail.com
+      </a>
+    </strong>
+  </li>
+</ul>
+  
 ### Connect with me:
-
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-calderón-83859a309/)
 
 ### My knowledge
@@ -18,3 +31,4 @@ I’m currently learning Angular and SpringBoot
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)
