@@ -6,7 +6,7 @@
 </div>
 <ul>
   <li>
-    I’m currently learning Angular and SpringBoot
+    I’m currently learning Django
   </li>
   <li>
     You can reach me here: 
